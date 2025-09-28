@@ -47310,7 +47310,7 @@ The following log file record shows that a user terminated an instance.
 "principalId":"123456789012",
 "arn":"arn:aws:iam::123456789012:root",
 "accountId":"123456789012",
-"accessKeyId":"AKIAIOSFODNN7EXAMPLE",
+"accessKeyId":"[REDACTED_AWS_KEY]",
 "userName":"user"
 },
 "eventTime":"2016-05-20T08:27:45Z",

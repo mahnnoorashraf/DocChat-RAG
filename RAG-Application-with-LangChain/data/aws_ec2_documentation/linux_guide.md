@@ -90478,7 +90478,7 @@ The following log file record shows that a user terminated an instance.
 "principalId":"123456789012",
 "arn":"arn:aws:iam::123456789012:root",
 "accountId":"123456789012",
-"accessKeyId":"AKIAIOSFODNN7EXAMPLE",
+"accessKeyId":"[REDACTED_AWS_KEY]",
 "userName":"user"
 },
 ```
@@ -119188,7 +119188,7 @@ Monitor Recycle Bin 2389
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119251,7 +119251,7 @@ GetRule
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119307,7 +119307,7 @@ ListRules
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119368,7 +119368,7 @@ UpdateRule
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119433,7 +119433,7 @@ DeleteRule
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119489,7 +119489,7 @@ TagResource
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119551,7 +119551,7 @@ UntagResource
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119610,7 +119610,7 @@ ListTagsForResource
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119671,7 +119671,7 @@ Monitor Recycle Bin 2399
 ```
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
@@ -119749,7 +119749,7 @@ UnlockRule
 "principalId": "123456789012",
 "arn": "arn:aws:iam::123456789012:root",
 "accountId": "123456789012",
-"accessKeyId": "AKIAIOSFODNN7EXAMPLE",
+"accessKeyId": "[REDACTED_AWS_KEY]",
 "sessionContext": {
 "sessionIssuer": {
 "type": "Role",
